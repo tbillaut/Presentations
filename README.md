@@ -13,7 +13,7 @@ Présentation en Français.
 
 ## Investigating Windows log with ELK
 
-[Investigating windows log with ELK](https://github.com/tbillaut/Presentations/blob/main/Investigating_windows_log_with_elk_V1.pdf)  
+[Investigating windows logs with ELK](https://github.com/tbillaut/Presentations/blob/main/Investigating_windows_log_with_elk_V1.pdf)  
 Based on SOF ELK distribution.  
 Hands on workshop.  
 Slidedeck in English.  
