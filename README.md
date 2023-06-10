@@ -8,7 +8,7 @@ thomas.billaut@protonmail.com
 ## FRANSEC 2021
 
 [Comment Opérer un SOC de facçon efficace ?](https://github.com/tbillaut/Presentations/blob/main/FRANSEC_DATA_SOC_V3.pdf)  
-Entre approches traditionnelles basées sur la couverture des risques et approches centrées sur la donnée, comment optimiser le fonctionnement de votre SOC.
+Entre approches traditionnelles basées sur la couverture des risques et approches centrées sur la donnée, comment optimiser le fonctionnement de votre SOC?  
 Présentation en Français.
 
 ## Investigating Windows log with ELK
