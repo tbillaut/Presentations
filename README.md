@@ -9,6 +9,12 @@ thomas.billaut@protonmail.com
 
 [Comment Opérer un SOC de facçon efficace ?](https://github.com/tbillaut/Presentations/blob/main/FRANSEC_DATA_SOC_V3.pdf)  
 Entre approches traditionnelles basées sur la couverture des risques et approches centrées sur la donnée, comment optimiser le fonctionnement de votre SOC.
+Présentation en Français.
 
+## Investigating Windows log with ELK
 
+[Investigating windows log with ELK](https://github.com/tbillaut/Presentations/blob/main/Investigating_windows_log_with_elk_V1.pdf)
+Based on SOF ELK distribution.
+Hands on workshop.
+Slidedeck in English.
 
