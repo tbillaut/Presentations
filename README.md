@@ -22,6 +22,6 @@ Slidedeck in English.
 
 ## FRANSEC 2023
 
-[How to prepare for a DATA breach](https://github.com/tbillaut/Presentations/blob/main/FRANSEC_DATA_BRECH_2023_V1.pdf)  
-How to minimize the risks.  
+[How to prepare for a DATA breach?](https://github.com/tbillaut/Presentations/blob/main/FRANSEC_DATA_BREACH_2023_V1.pdf)  
+How to minimize the risks?
 Présentation en Français.  
