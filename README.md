@@ -25,3 +25,10 @@ Slidedeck in English.
 [How to prepare for a DATA breach?](https://github.com/tbillaut/Presentations/blob/main/FRANSEC_DATA_BREACH_2023_V1.pdf)  
 How to minimize the risks?  
 Présentation en Français.  
+
+
+## FRANSEC 2024
+
+[How to improve your SOC operating model with systemic approach?](https://github.com/tbillaut/Presentations/blob/main/FRANSEC_SOC_SYSTEMIC_APPROACH_V2.pdf)    
+Slidedeck in English.  
+Exec sum : Operational cybersecurity teams are constantly in a race against time. To keep up with the rapidly evolving threat landscape, an efficient and adaptable Security Operations Center (SOC) is essential. Among automation, AI, silos of expertise, capitalizing on knowledge, and other popular ideas, misconceptions about SOC management in 2024 are commonplace. In this session, I set the record straight, debunk myths, and clarify the best practices to bring value to an SOC in 2024. 
